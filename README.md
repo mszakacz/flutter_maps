@@ -1,7 +1,6 @@
 # Flutter Maps
 
-![short 720](https://user-images.githubusercontent.com/38291070/192233164-d331c0ec-07b8-41c7-9bf2-b7fa825ca9cb.gif)
-
+![short 480](https://user-images.githubusercontent.com/38291070/192236279-04ace40c-36cf-4442-922f-1e36b555bdc8.gif)
 
 ### Functionality:
 - map,
