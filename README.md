@@ -1,5 +1,8 @@
 # Flutter Maps
 
+![short 720](https://user-images.githubusercontent.com/38291070/192233164-d331c0ec-07b8-41c7-9bf2-b7fa825ca9cb.gif)
+
+
 ### Functionality:
 - map,
 - locations searching,
